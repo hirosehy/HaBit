@@ -1,9 +1,8 @@
-# HaBitへようこそ
+# こちらのページは移動しました。
 
-HaBit 〜習慣定着〜 をご利用いただきありがとうございます。
-このアプリでは、自分が身に付けたい習慣や、既にある習慣を、何日間継続しているのかをカウントするアプリとなっています。
+以下へ移動しましたので、こちらで確認をお願いします。
 
-以下の利用規約とプライバシーポリシーをお読みの上、ご利用ください！
+[トップページ](https://habit-web.com/)
 
-[利用規約](./Terms/Japanese/index.md)
-[プライバシーポリシー](./PrivacyPolicy/Japanese/index.md)
+[利用規約](https://habit-web.com/terms)  
+[プライバシーポリシー](https://habit-web.com/privacy)
